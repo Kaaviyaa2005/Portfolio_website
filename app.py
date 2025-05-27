@@ -71,11 +71,20 @@ st.markdown("""
 # Projects
 st.subheader("🚀 Projects")
 st.markdown("""
-- **AI-Powered Waste Segregation System**: Used sensors + image classification for waste categorization.  
-- **Energy Audit App with AI**: Built app for national-level hackathon Energython 24 with AI for Energy Audit.  
-- **NLP Text Summarizer**: Deployed a GitHub-hosted NLP summarizer using AI.
+- **AI-Powered Waste Segregation System
+Used DenseNet, ResNet-50, and InceptionV3 for multi-class waste classification using computer vision.
+
+- **Building Crack Detection & Severity Classification
+Built a vision-based model to detect cracks and classify severity using deep learning.
+
+- **Deepfake Detection using LSTM
+Developed an LSTM-based system to identify deepfakes from facial video data.
+
+- **Number Recognition (OCR)
+Implemented OCR using OpenCV and Tesseract for handwritten and printed number recognition.
 
 """)
+
 
 # Research
 st.subheader("📖 Research")
