@@ -77,7 +77,7 @@ st.markdown(get_pdf_download_link("Kaaviyaa_Resume.pdf"), unsafe_allow_html=True
 st.subheader("🌟 Professional Objective")
 st.success("To leverage my skills in computer science and innovative thinking to add value to company projects, while continuously learning and evolving as a professional.")
 
----
+
 
 # Experience
 
@@ -87,7 +87,6 @@ st.markdown("""
 * **Web Development Internship** — **Big Si Bucks Innovation pvt. [cite_start]Ltd.** (1 month) [cite: 40]
 """)
 
----
 
 # Education
 
@@ -105,7 +104,6 @@ st.markdown(f"""
     * [cite_start]Year of Passing: 2021 [cite: 16]
 """)
 
----
 
 # Skills & Areas of Interest
 
@@ -123,7 +121,6 @@ st.markdown("""
 * [cite_start]**Data Structures and Algorithms** [cite: 21]
 """)
 
----
 
 # Certifications
 
@@ -136,7 +133,6 @@ st.markdown("""
 * [cite_start]Professional Networking - **Linkedin Learning** [cite: 29, 30]
 """)
 
----
 
 # Projects (Corrected)
 
@@ -159,7 +155,6 @@ st.subheader("🚀 Key Projects")
 * [cite_start]Implemented interactive dashboards for energy tracking and personalized energy-saving suggestions[cite: 38].
 * [cite_start]Recognized as **Second Runner-Up at Energathon '24 hackathon, receiving a ₹1000 cash award**[cite: 38, 43].
 
----
 
 # Achievements & Awards (Corrected)
 
@@ -177,7 +172,6 @@ st.markdown("""
 * [cite_start]**3rd Place**, Tech Quest - Technical Quiz [cite: 50]
 """)
 
----
 
 # Leadership & Activities
 
@@ -201,3 +195,4 @@ st.markdown("""
     Connect with me: kaaviyaa.i@gmail.com | Thank you!
 </div>
 """, unsafe_allow_html=True)
+
